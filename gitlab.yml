@@ -1,8 +1,0 @@
----
-- name: Install GitLab CE
-  gather_facts: True
-  hosts: "gitlab"
-  become: True
-  roles:
-    - gitlab
-
