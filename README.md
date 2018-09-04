@@ -1,0 +1,2 @@
+# SetupCIHOST
+CIサーバを自動構築するためのplaybookを保管するプロジェクト
